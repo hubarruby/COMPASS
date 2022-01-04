@@ -5,4 +5,4 @@ This is the data-analysis portion of a student-led scientific ballooning project
 
 The Project was overseen by LSU Faculty member Aaron Ryan and LSU Professor T. Gregory Guzik. Results were presented at the 2021 American Geophysical Union Conference.
 
-Disclaimer: This is not the complete project code, but just a small portion of the analysis.
+Disclaimer: This is not the complete project code, but just a portion of the analysis written by me.
